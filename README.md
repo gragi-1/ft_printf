@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `ft_printf` project recreates the libc `printf` function. This custom `printf` function, named `ft_printf`, aims to mimic the behavior of the original `printf` - handling format specifiers and variable argument lists. This project is a deep dive into C programming, focusing on variadic functions, string parsing, and formatting output.
+The `ft_printf` project recreates the libc `printf` function. This custom `printf` function, named `ft_printf`, aims to mimic the behavior of the original `printf` - handling format specifiers and variable argument lists. This project is a deep dive into C programming, focusing on variadic functions, string parsing, and formatting output. Using the [libft]([https://github.com/usuario/repositorio](https://github.com/gragi-1/libft)) project
 
 ## Objective
 
